@@ -5,7 +5,7 @@
 # TAMPILAN INPUT 
 
 <p align="center">
-<img src="https://github.com/Heni17/uasheni/blob/master/start.jpg" width="450" height="300" />
+<img src="https://github.com/Heni17/uasheni/blob/master/start.png" width="450" height="300" />
 </p>
 
 # TAMPILAN OUTPUT
