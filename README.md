@@ -10,6 +10,11 @@
 
 # TAMPILAN OUTPUT
 
+<p align="center">
+<img src="https://github.com/Heni17/uasheni/blob/master/program.jpg" width="450" height="300" />
+</p>
+
+
 # FLOWCHART
 
 <p align="center">
